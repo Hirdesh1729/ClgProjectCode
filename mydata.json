@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Prof. Harsh Lohiya",
+    "phone": "9876543210",
+    "email": "asha.mehta@college.edu",
+    "city": "Mumbai",
+    "department": "Computer Science",
+    "sector": "Engineering"
+  },
+  {
+    "name": "Prof. Rajiv Kumar",
+    "phone": "9123456780",
+    "email": "rajiv.kumar@college.edu",
+    "city": "Delhi",
+    "department": "Mechanical",
+    "sector": "Engineering"
+  },
+  {
+    "name": "Dr. Sneha Iyer",
+    "phone": "9988776655",
+    "email": "sneha.iyer@college.edu",
+    "city": "Pune",
+    "department": "Mathematics",
+    "sector": "Science"
+  },
+  {
+    "name": "Prof. Amit Joshi",
+    "phone": "9876512345",
+    "email": "amit.joshi@college.edu",
+    "city": "Ahmedabad",
+    "department": "Civil",
+    "sector": "Engineering"
+  },
+  {
+    "name": "Dr. Meena Rao",
+    "phone": "9654321876",
+    "email": "meena.rao@college.edu",
+    "city": "Chennai",
+    "department": "Physics",
+    "sector": "Science"
+  },
+  {
+    "name": "Prof. Gautam Saxena",
+    "phone": "9345612789",
+    "email": "vikram.singh@college.edu",
+    "city": "Bengaluru",
+    "department": "Electronics",
+    "sector": "Engineering"
+  },
+  {
+    "name": "Dr. Priya Desai",
+    "phone": "9234567123",
+    "email": "priya.desai@college.edu",
+    "city": "Hyderabad",
+    "department": "Chemistry",
+    "sector": "Science"
+  },
+  {
+    "name": "Prof. Ankit Joshi",
+    "phone": "9321789054",
+    "email": "arjun.nair@college.edu",
+    "city": "Kochi",
+    "department": "IT",
+    "sector": "Engineering"
+  },
+  {
+    "name": "Dr. Nisha Verma",
+    "phone": "9483726159",
+    "email": "nisha.verma@college.edu",
+    "city": "Nagpur",
+    "department": "Biology",
+    "sector": "Science"
+  },
+  {
+    "name": "Prof. Rajendra Singh",
+    "phone": "9182736450",
+    "email": "manish.tiwari@college.edu",
+    "city": "Bhopal",
+    "department": "Electrical",
+    "sector": "Engineering"
+  },
+  {
+    "name": "Dr. Kavita Sharma",
+    "phone": "9873602581",
+    "email": "kavita.sharma@college.edu",
+    "city": "Jaipur",
+    "department": "English",
+    "sector": "Arts"
+  },
+  {
+    "name": "Prof. Suresh Patil",
+    "phone": "9347283956",
+    "email": "suresh.patil@college.edu",
+    "city": "Surat",
+    "department": "Mechanical",
+    "sector": "Engineering"
+  },
+  {
+    "name": "Dr. Anjali Kapoor",
+    "phone": "9456781230",
+    "email": "anjali.kapoor@college.edu",
+    "city": "Lucknow",
+    "department": "Economics",
+    "sector": "Arts"
+  },
+  {
+    "name": "Prof. Hirdesh Kesairya",
+    "phone": "PROHIBITED",
+    "email": "PROHIBITED",
+    "city": "PROHIBITED",
+    "department": "Computer Science",
+    "sector": "PROHIBITED"
+  },
+  {
+    "name": "Dr. Leena Shah",
+    "phone": "9567841237",
+    "email": "leena.shah@college.edu",
+    "city": "Indore",
+    "department": "Environmental Science",
+    "sector": "Science"
+  }
+]
